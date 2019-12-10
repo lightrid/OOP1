@@ -1,0 +1,9 @@
+C:\Users\LightRid\source\repos\OOP1\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\LightRid\source\repos\OOP1\OOP1\bin\Debug\OOP1.exe
+C:\Users\LightRid\source\repos\OOP1\OOP1\bin\Debug\OOP1.pdb
+C:\Users\LightRid\source\repos\OOP1\OOP1\obj\Debug\OOP1.csprojAssemblyReference.cache
+C:\Users\LightRid\source\repos\OOP1\OOP1\obj\Debug\OOP1.Form1.resources
+C:\Users\LightRid\source\repos\OOP1\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+C:\Users\LightRid\source\repos\OOP1\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+C:\Users\LightRid\source\repos\OOP1\OOP1\obj\Debug\OOP1.exe
+C:\Users\LightRid\source\repos\OOP1\OOP1\obj\Debug\OOP1.pdb

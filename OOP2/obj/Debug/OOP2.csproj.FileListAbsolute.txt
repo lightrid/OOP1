@@ -1,0 +1,6 @@
+C:\Users\LightRid\source\repos\OOP1\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\LightRid\source\repos\OOP1\OOP2\bin\Debug\OOP2.exe
+C:\Users\LightRid\source\repos\OOP1\OOP2\bin\Debug\OOP2.pdb
+C:\Users\LightRid\source\repos\OOP1\OOP2\obj\Debug\OOP2.csprojAssemblyReference.cache
+C:\Users\LightRid\source\repos\OOP1\OOP2\obj\Debug\OOP2.exe
+C:\Users\LightRid\source\repos\OOP1\OOP2\obj\Debug\OOP2.pdb
